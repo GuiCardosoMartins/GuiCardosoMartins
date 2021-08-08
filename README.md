@@ -6,7 +6,7 @@ I have always been and I really like to be curious and with that I always propos
 
 ### "Curiosity is more important than knowledge." Albert Einstein.
 
-- 📍 Da Serra - ES
+- 📍 From Serra - ES
 - 🌱 I am currently learning front-end development
 - 🎧 Passionate about Hip Hop / Rap
 
