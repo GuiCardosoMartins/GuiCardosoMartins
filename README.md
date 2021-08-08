@@ -10,7 +10,7 @@ I have always been and I really like to be curious and with that I always propos
 - 🌱 I am currently learning front-end development
 - 🎧 Passionate about Hip Hop / Rap
 
- ####Reach me out 👇
+ #### Reach me out 👇
  
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-cardoso-b8a804185/)](https://www.linkedin.com/in/guilherme-cardoso-b8a804185/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/guizincardoso/)](https://www.instagram.com/guizincardoso/)
  
